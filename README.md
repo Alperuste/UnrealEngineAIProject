@@ -6,8 +6,11 @@ This assignment invokes the use of AI behavioural tree with the use of Unreal En
 Games in fulfilment of ​Artificial Intelligence for Games ​in Tallinn University, Estonia.
 
 The development team entails.
+
 ● Alper Üste
+
 ● Gözde Keser
+
 ● Oluwafiyikewa Aigbovbioise Alawode
 
 Open with UE4 Editor; Version 4.24
@@ -59,3 +62,5 @@ Acknowledgements
 AI for Games video playlist by Roman Gorislavski
 
 Note: AI-related blueprints and Behaviour Tree are commented within the project as well.
+
+Video of the project: https://youtu.be/ZWMGwfObRYo
