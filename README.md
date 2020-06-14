@@ -17,7 +17,7 @@ Open with UE4 Editor; Version 4.24
 
 AI Behavioural Traits
 
-This exercise entails 5 AI-controlled characters (bots). They go through five different behaviours based on 4 stages on the game
+This exercise entails 5 AI-controlled characters (bots). They go through six different behaviours based on 4 stages on the game
 
 ● Running along a specific set path in a circular motion.
 
@@ -26,6 +26,11 @@ This exercise entails 5 AI-controlled characters (bots). They go through five di
 ● Running up to behind each other to try landing a sneak/back attack
 
 ● Grouping with teammates at safety points
+
+
+Stage 0 - Before the game start
+
+In this stage, its like the waiting zones in multiplayer games. Before the real game (Stage 1) start, the AI characters chasing the player as long as they see.
 
 Stage 1 - Run, Forest, Run!
 
