@@ -28,12 +28,6 @@ This exercise entails 5 AI-controlled characters (bots). They go through seven d
 ● Grouping with teammates at safety points
 
 
-Stage 0 - Before the game start
-
-In this stage, its like the waiting zones in zombie games. Before the real game (Stage 1) start, the AI characters chasing the player as long as they see.
-
-And if they are in the attacking range, they will start attacking the player.
-
 Stage 1 - Run, Forest, Run!
 
 This is the first or initial stage when the programme starts, the AI characters are places along a set spline which is circular in this project, and are expected to run laps around the spline. While that point is the active target and they're running towards it, they are also actively searching for the next waypoint to move to after and the cycle continues.
