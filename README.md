@@ -17,7 +17,7 @@ Open with UE4 Editor; Version 4.24
 
 AI Behavioural Traits
 
-This exercise entails 5 AI-controlled characters (bots). They go through five different behaviours based on 4 stages on the game
+This exercise entails 5 AI-controlled characters (bots). They go through seven different behaviours based on 4 stages on the game
 
 ● Running along a specific set path in a circular motion.
 
@@ -26,10 +26,6 @@ This exercise entails 5 AI-controlled characters (bots). They go through five di
 ● Running up to behind each other to try landing a sneak/back attack
 
 ● Grouping with teammates at safety points
-
-Pre-Stage- Investigiating and  Attacking via hearing and visual perception. 
-
-Before the templated game starts, the project starts with a lobby where the AI characters is triggered to see you (the player) with the add of the key pressed C, to call out a sound. With the aid of AI perception and some tuning from the Behavioural Tree, to attack the player. The AI using a combination of Sight and Hearing to search for you. The AI searches for you via a created path, but also deviates when he hears a sound to seek you out and attack you. 
 
 
 Stage 1 - Run, Forest, Run!
