@@ -27,6 +27,11 @@ This exercise entails 5 AI-controlled characters (bots). They go through five di
 
 ● Grouping with teammates at safety points
 
+Pre-Stage- Investigiating and  Attacking via hearing and visual perception. 
+
+Before the templated game starts, the project starts with a lobby where the AI characters is triggered to see you (the player) with the add of the key pressed C, to call out a sound. With the aid of AI perception and some tuning from the Behavioural Tree, to attack the player. The AI using a combination of Sight and Hearing to search for you. The AI searches for you via a created path, but also deviates when he hears a sound to seek you out and attack you. 
+
+
 Stage 1 - Run, Forest, Run!
 
 This is the first or initial stage when the programme starts, the AI characters are places along a set spline which is circular in this project, and are expected to run laps around the spline. While that point is the active target and they're running towards it, they are also actively searching for the next waypoint to move to after and the cycle continues.
