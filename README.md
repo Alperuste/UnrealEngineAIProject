@@ -27,6 +27,19 @@ This exercise entails 5 AI-controlled characters (bots). They go through seven d
 
 ● Grouping with teammates at safety points
 
+<<<<<<< Update
+Pre-Stage- Investigiating and  Attacking via hearing and visual perception. 
+
+Before the templated game starts, the project starts with a lobby where the AI characters is triggered to see you (the player) with the add of the key pressed C, to call out a sound. With the aid of AI perception and some tuning from the Behavioural Tree, to attack the player. The AI using a combination of Sight and Hearing to search for you. The AI searches for you via a created path, but also deviates when he hears a sound to seek you out and attack you. 
+
+=======
+
+Stage 0 - Before the game start
+
+In this stage, its like the waiting zones in zombie games. Before the real game (Stage 1) start, the AI characters chasing the player as long as they see.
+
+And if they are in the attacking range, they will start attacking the player.
+>>>>>>> master
 
 Stage 1 - Run, Forest, Run!
 
